@@ -36,4 +36,5 @@ flutter run
 ```
 
 ---
-*Сделано с акцентом на современный UI/UX (Glassmorphism, плавная анимация, темная тема).*
+
+# По вопросам в тг [covercp](https://t.me/covercp)
